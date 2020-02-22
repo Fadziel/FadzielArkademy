@@ -1,0 +1,54 @@
+{
+	
+	"Biodata": {
+		"Name" 			:"Fadzil Amrullah Asy syahid",
+		"Age"			: 24,
+		"Address"		:"Jl. Raya Bumiratu kompleks lapangan Bumiratu RT/RW 004/003, Pagelaran, Prigsewu, Lampung",
+		"Hobbies"		: ["codding","game","dream"],
+		"is_marriage"	:false,
+
+		"List_school"	:{
+
+			"SD N 2 Bumiratu, Pagelaran, Pringsewu, Lampung" : {
+				"in"  : "2001",
+				"out" : "2007"
+			},
+
+			"SMP N 1 Pagelaran, Pringsewu, Lampung" : {
+				"in"  : "2007",
+				"out" : "2010"
+			},
+
+			"SMK KH.Ghalib Pringsewu, Lampung" : {
+				"in"  : "2010",
+				"out" : "2013"
+			},
+
+			"Universitas Teknokrat Indonesia (Lampung)" : {
+				"in"  : "2013",
+				"out" : "2019",
+				"kenapa telat 2 tahun" : {
+					"di tahun 2017" : "pending wisuda 2017 sebab isu akreditasi perguruan tinggi ke Universitas",
+					"di tahun 2018" : "saya cuti 1 tahun karena harus mencari uang bayar kuliah sendiri + bapak sakit jantung"
+				} 
+			}
+			
+		},
+
+		"Skills"		:{
+			"JavaScript (Android Studio)" 	: "Beginer",
+			"Grapich Design" 				: "Beginer",
+			"Computer Enginering" 			: "Advance",
+			"IT & Network Enginering"		: "Advance",
+			"PHP"							: "Beginer",
+			"HTML"							: "Beginer",
+			"Public Speaking"				: "Advance"
+		
+
+		},
+
+		"interest_in_coding":true
+
+
+	}
+}
