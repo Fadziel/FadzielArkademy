@@ -12,7 +12,6 @@ fungsi json pada rest api adalah untuk mempermudah pertukaran atau penyimpanan d
 software yang dibutuhkan
 -Xammp
 -Google chrome and dwonload json viewer in extentision
+-dev c++
 
-
-note :
-nomor selanjutnnya saya kurang menguasai, sudah saya coba tapi bug berkelanjutan, jadi saya kumpul yang sekiranya saya bisa saja 
+bisa juga dengan GDB online
